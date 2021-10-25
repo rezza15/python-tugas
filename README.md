@@ -9,7 +9,7 @@ Berikut langkah - langkah penggunaan Git.<p>
 ![gambar 2](screenshot/ss4.PNG)
 3.Jika sudah pilih file lalu klik new file akan muncul folder kosong yang bisa kalian masukan script program yang ingin kalian buat seperti ini<p>
 ![gambar 3](screenshot/ss2.PNG) 
-berikut script nya 
+berikut script nya <p>
     print ("Tugas Python")
     print ()
     nama = input("masukan Nama Anda :")
